@@ -39,6 +39,9 @@ li{
   list-style: none;
   text-decoration: underline;
 }
+a{
+  color: seashell;
+}
 a:hover{
   color:lightblue;
 }
